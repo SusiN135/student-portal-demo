@@ -1,0 +1,7 @@
+student name
+student suc
+student mail id
+student registration number
+academics
+fee details
+attendance
